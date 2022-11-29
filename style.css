@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#nav{
+  justify-content: space-between;
+  
+}
+ #leftbox {
+   align-items: ;
+ }
+#middlebox {
+  align-items: ;
+}
+ #middlerightbox {
+   align-items: ;
+ }
+#rightbox{
+  align-items: ;
+}
